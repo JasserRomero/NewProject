@@ -1,0 +1,37 @@
+#contenedor {
+	width: 1400px;
+	margin-left: auto;
+	margin-right: auto;
+    display: grid;  
+    margin-top: 30px;
+}
+
+
+
+#section1{
+	background-color: black;
+	height: 200px;
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+
+}
+
+
+#section2{
+	background-color: yellow;
+	height: 200px;
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+
+}
+
+#section3{
+	background-color: blue;
+	height: 200px;
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+
+}
